@@ -7,5 +7,11 @@
 
 # Project List
 I use Android Studio IDE wrote it; some links could jump into file;
-## ./appMultiProcessDemo
+
+## Image | Animation | 
+### 
+[Lottie for Android AE动画测试Demo](./anim-lottieDemo/Readme.md)  
+
+## Dispatch
+### ./appMultiProcessDemo
 [多进程消息发送，接口调用，AIDL](./appMultiProcessDemo/Readme.md)
