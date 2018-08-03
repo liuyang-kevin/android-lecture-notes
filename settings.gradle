@@ -1,1 +1,1 @@
-include ':appMultiProcessDemo', ':anim-lottieDemo'
+include ':appMultiProcessDemo', ':anim-lottieDemo', ':myviewsample01', ':demoviewslibrary', ':animtest'
